@@ -13,4 +13,4 @@ This module consisted of 2 submissions:
   As well as a project looking at how effective Deep Learning and Recurrent Neural Networks can be used to assist in Source Code Analysis.
 
 CMP-309 - Software Development for Mobile Devices - Grade TBD
-I developed an Android Application in Kotlin.
+I developed a simple note taking Android Application in Kotlin.
