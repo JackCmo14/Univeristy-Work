@@ -1,4 +1,4 @@
-# Univeristy-Work
+# University-Work
 University work I completed during my BSc Ethical Hacking.
 
 CMP-319 - Ethical Hacking 2 - Grade B+ Overall
