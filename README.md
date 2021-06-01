@@ -9,7 +9,7 @@ I completed a Network security evaluation and produced a report with documentati
 
 CMP-320 - Ethcial Hacking 3 - Grade TBD
 This module consisted of 2 submissions:
-  A tutorial going over a Buffer Overflow vulnerability in an application and how it can be exploited as well as counter measures employed. (Grade A+)
+  A tutorial going over a Buffer Overflow vulnerability in an application and how it can be exploited as well as counter measures employed (Grade A+).
   As well as a project looking at how effective Deep Learning and Recurrent Neural Networks can be used to assist in Source Code Analysis. (Grade TBC)
 
 CMP-309 - Software Development for Mobile Devices - Grade TBD
